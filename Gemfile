@@ -14,6 +14,8 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'jquery-rails'
 
+gem 'stripe'
+
 # Use sqlite3 as the database for Active Record
 
 # Use Puma as the app server
