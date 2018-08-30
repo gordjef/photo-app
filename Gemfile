@@ -17,7 +17,7 @@ gem 'jquery-rails'
 gem 'stripe'
 gem 'carrierwave'
 gem 'mini_magick'
-gem 'fog-aws'
+gem 'fog'
 
 # Use sqlite3 as the database for Active Record
 
